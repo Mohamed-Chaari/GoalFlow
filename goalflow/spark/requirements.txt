@@ -1,0 +1,6 @@
+psycopg2-binary==2.9.9
+pandas==2.1.4
+pandera==0.17.2
+loguru==0.7.2
+pydantic==2.5.3
+pydantic-settings==2.1.0
